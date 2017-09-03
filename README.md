@@ -1,5 +1,5 @@
 # VK_TTS
-Bot for Vk for TTS(Text-to-speech)
+TTS(Text-To-Speech) bot for Vk
 ## Using:
 Install requrements
 
